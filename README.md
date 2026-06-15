@@ -1452,6 +1452,6 @@ However, if conflicts do occur, the fewer files or locations in the code that ar
 
 Credit: Book; Author, Bernd Oggl, Michael Kofler Title; Git Project Management for Developers and DevOps Teams.  Rheinwerk Computing 2023
 
-
+![set_up_branches_for_merge](/pics/branches_merge.jpg)
 
 # END OF READ
