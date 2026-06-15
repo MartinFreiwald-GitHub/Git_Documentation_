@@ -1,3 +1,5 @@
+![banner](/pics/banner_git.jpg)
+
 # Git Documentation
 
 ## Working from hypertext links found on Internet.
