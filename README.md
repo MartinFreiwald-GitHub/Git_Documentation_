@@ -1,4 +1,4 @@
-![banner](/pics/)
+![banner](/pics/banner_git.jpg)
 
 # Git Documentation
 
